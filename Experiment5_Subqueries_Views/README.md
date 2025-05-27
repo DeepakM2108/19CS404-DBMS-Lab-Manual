@@ -1,6 +1,6 @@
 # Experiment 5: Subqueries and Views
-### NAME : ESAKI MUTHU E
-### REG NO : 212222060055
+### NAME : DEEPAK M
+### REG NO : 212222060034
 ## AIM
 To study and implement subqueries and views.
 
