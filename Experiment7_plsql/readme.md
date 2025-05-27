@@ -1,6 +1,6 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
-### NAME : ESAKI MUTHU E
-### REG NO : 212222O60055
+### NAME : DEEPAK M
+### REG NO : 212222O60034
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
