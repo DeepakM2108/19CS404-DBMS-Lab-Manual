@@ -1,6 +1,6 @@
 # Experiment 9: PL/SQL – Procedures and Functions
-### NAME : ESAKI MUTHU E
-### REG NO : 212222060055
+### NAME : DEEPAK M
+### REG NO : 212222060034
 ## AIM
 To understand and implement procedures and functions in PL/SQL for performing various operations such as calculations, decision-making, and looping.
 
